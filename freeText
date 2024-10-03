@@ -1,0 +1,7 @@
+# To upload a project into the Git-hub
+git init
+git status
+git add .
+git commit -m "existing project"
+git remote add origin https://
+git push origin master
